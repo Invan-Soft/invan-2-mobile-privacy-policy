@@ -42,9 +42,7 @@ Regular data backups are performed to prevent data loss;
 We follow industry-standard security practices to avoid unauthorized access.
 
 5. Application Functionality
-The application supports both online and offline modes (with limited offline features);
-
-When offline, data is temporarily stored locally on the device;
+The application supports online modes (with limited offline features);
 
 Once internet access is restored, data is automatically synchronized with the server.
 
