@@ -1,56 +1,61 @@
-Политика конфиденциальности для Invan 2 Mobile
+Privacy Policy for Invan 2 Mobile
+Effective date: August 6, 2025
 
-Приложение Invan 2 Mobile создано с целью помочь владельцам магазинов и супермаркетов эффективно управлять своим бизнесом. Мы ценим ваше доверие и стремимся обеспечить безопасность и прозрачность при использовании нашего сервиса.
+Invan 2 Mobile is a business management application designed to assist store and supermarket owners in managing inventory, sales, and employee operations efficiently. We value your privacy and are committed to protecting your personal and business data. This Privacy Policy outlines how we collect, use, and safeguard your information.
 
-1. Какие данные мы собираем:
-Информация о магазине и его сотрудниках (название, ИНН, ФИО, телефон и т.д.);
+1. Information We Collect
+We collect only the data necessary to provide and improve our services:
 
-Данные о заказах, товарах и продажах;
+Store and employee information (e.g., store name, TIN, employee full names, phone numbers);
 
-Данные, введённые вами вручную или через интеграцию;
+Product, order, and sales data;
 
-Информация о действиях в приложении (навигация, использование функций и т.д.).
+Any additional data you enter manually or through third-party integrations.
 
-Мы не собираем и не используем личные данные клиентов магазина (физических лиц-покупателей).
+2. How We Use Your Data
+All collected information is used exclusively for internal app functionality, including:
 
-2. Как используются данные:
-Ваши данные используются исключительно для:
+Managing and tracking inventory;
 
-Ведения и контроля товарных остатков;
+Recording and processing sales, orders, and returns;
 
-Учёта продаж, заказов и возвратов;
+Providing analytics and reports for store performance;
 
-Анализа статистики по магазинам;
+Ensuring proper operation of app features.
 
-Обеспечения корректной работы приложения.
+We do not use your data for advertising or unrelated third-party services.
 
-3. Кто имеет доступ к данным:
-Доступ имеют только администраторы магазина и его сотрудники, зарегистрированные в системе;
+3. Access to Data
+Only authorized store administrators and registered employees can access store data;
 
-Мы не передаём данные третьим лицам без вашего согласия;
+We do not share your data with third parties without your explicit consent;
 
-Все данные защищены и хранятся на надёжных серверах.
+All user data is securely stored on protected servers.
 
-4. Безопасность данных:
-Все соединения с сервером защищены (HTTPS/SSL);
+4. Data Security
+We implement strong security measures to protect your data:
 
-Периодически проводится резервное копирование информации;
+All server communications are encrypted via HTTPS/SSL;
 
-Мы соблюдаем стандарты безопасности для защиты от несанкционированного доступа.
+Regular data backups are performed to prevent data loss;
 
-5. Режим работы приложения:
-Приложение работает как онлайн, так и в офлайн режиме (некоторые функции);
+We follow industry-standard security practices to avoid unauthorized access.
 
-Данные могут быть временно сохранены локально на устройстве и синхронизированы при подключении к сети.
+5. Application Functionality
+The application supports both online and offline modes (with limited offline features);
 
-6. Обратная связь:
-Если у вас есть вопросы или предложения, вы можете обратиться в нашу службу поддержки по email: support@invan.uz или через встроенный чат в приложении.
+When offline, data is temporarily stored locally on the device;
 
-Почему выбирают Invan 2 Mobile:
-Полный контроль над магазином прямо с телефона;
+Once internet access is restored, data is automatically synchronized with the server.
 
-Мониторинг заказов и продаж в реальном времени;
+6. Your Rights and Control
+You have the right to:
 
-Доступ только для сотрудников магазина;
+Access, update, or delete your data at any time;
 
-Все современные функции, как в крупных сетевых супермаркетах – в одном мобильном приложении.
+Request a copy of your stored information;
+
+Contact us for any questions related to privacy at suxrob6606@gmail.com.
+
+7. Changes to This Policy
+We may update this Privacy Policy as needed. Any significant changes will be communicated through the app or our website.
